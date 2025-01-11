@@ -1,0 +1,5 @@
+langchain==0.2.0
+langchain-openai==0.1.7
+!pip install langchain-community==0.2.0
+sentence-transformers==2.7.0
+langchain-chroma
