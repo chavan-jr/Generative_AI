@@ -19,7 +19,7 @@ This project implements a document retriever search engine designed to fetch rel
 ## Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/document-retriever
+   git clone [https://github.com/your-username/document-retriever](https://github.com/chavan-jr/Generative_AI/edit/main/Document_Retriever)
    cd document-retriever
 2. Install the required dependencies:
     bash
